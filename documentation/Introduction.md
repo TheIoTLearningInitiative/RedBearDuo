@@ -3,6 +3,7 @@ Introduction
 
 
 - [RedBear Homepage](https://github.com/redbear/)
+- [RedBear Duo Resources](https://github.com/redbear/Duo)
 - [RedBear Duo Schematic](https://github.com/redbear/Duo/tree/master/schematic)
 
 ```sh
