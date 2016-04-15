@@ -5,7 +5,8 @@ Introduction
 
 > 
 
-- [RedBear Homepage](http://redbearlab.com/)
+- [RedBear Homepage](http://redbear.cc/)
+- [RedBear Labs Homepage](http://redbearlab.com/)
 - [RedBear Github](https://github.com/redbear/)
 
 
