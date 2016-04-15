@@ -1,6 +1,10 @@
 Introduction
 ==
 
+
+- [RedBear Homepage](https://github.com/redbear/)
+- [RedBear Duo Schematic](https://github.com/redbear/Duo/tree/master/schematic)
+
 ```sh
 [  150.184035] usb 5-1: new full-speed USB device number 3 using uhci_hcd
 [  150.370321] usb 5-1: New USB device found, idVendor=2b04, idProduct=c058
