@@ -39,7 +39,10 @@ xe1gyq@jessie:~$
 xe1gyq@jessie:~$ ls /dev/ttyACM*
 /dev/ttyACM0
 xe1gyq@jessie:~$ screen /dev/ttyACM0
+<Device ID with "i">
 Your device id is 1e003e000551343530343432
+<System Firmware Version with "v">
 system firmware version: 0.2.1
+<WiFi with "w">
 ```
 
