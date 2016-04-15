@@ -5,4 +5,5 @@
 * [Particle WebIDE](documentation/Particle.md)
 * [Arduino IDE](documentation/Arduino.md)
 * Broadcom WICED SDK
+* Javascript
 
