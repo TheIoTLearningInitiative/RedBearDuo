@@ -38,5 +38,8 @@ xe1gyq@jessie:~$
 [  150.413441] cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
 xe1gyq@jessie:~$ ls /dev/ttyACM*
 /dev/ttyACM0
+xe1gyq@jessie:~$ screen /dev/ttyACM0
+Your device id is 1e003e000551343530343432
+system firmware version: 0.2.1
 ```
 
