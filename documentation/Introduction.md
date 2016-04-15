@@ -3,7 +3,7 @@ Introduction
 
 ## RedBear
 
-> 
+> ...
 
 - [RedBear Homepage](http://redbear.cc/)
 - [RedBear Labs Homepage](http://redbearlab.com/)
@@ -11,6 +11,8 @@ Introduction
 
 
 ## RedBear Duo
+
+> ...
 
 - [RedBear Duo Resources](https://github.com/redbear/Duo)
 - [RedBear Duo Schematic](https://github.com/redbear/Duo/tree/master/schematic)
