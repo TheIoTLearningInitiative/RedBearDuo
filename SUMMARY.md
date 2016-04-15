@@ -7,5 +7,4 @@
    * [Arduino IDE](documentation/Arduino.md)
    * Broadcom WICED SDK
    * Javascript
-   * Tbd
 
