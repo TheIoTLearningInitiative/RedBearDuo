@@ -17,7 +17,12 @@ Introduction
 - [RedBear Duo Resources](https://github.com/redbear/Duo)
 - [RedBear Duo Schematic](https://github.com/redbear/Duo/tree/master/schematic)
 - [RedBear Duo Documentation](https://github.com/redbear/Duo/tree/master/docs)
-  - 
+  - Getting Started Guide
+  - Windows Driver Installation Guide
+  - DFU Installation Guide
+  - Firmware Management Guide
+  - Provisioning Guide
+  - BTstack - BLE API and other documents
 
 ```sh
 [  150.184035] usb 5-1: new full-speed USB device number 3 using uhci_hcd
