@@ -25,6 +25,7 @@ Introduction
   - BTstack - BLE API and other documents
 
 ```sh
+xe1gyq@jessie:~$ 
 [  150.184035] usb 5-1: new full-speed USB device number 3 using uhci_hcd
 [  150.370321] usb 5-1: New USB device found, idVendor=2b04, idProduct=c058
 [  150.370326] usb 5-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
