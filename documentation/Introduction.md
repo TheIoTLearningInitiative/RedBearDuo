@@ -35,5 +35,7 @@ Introduction
 [  150.411503] cdc_acm 5-1:1.0: ttyACM0: USB ACM device
 [  150.413439] usbcore: registered new interface driver cdc_acm
 [  150.413441] cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
+xe1gyq@jessie:~$ ls /dev/ttyACM*
+/dev/ttyACM0
 ```
 
