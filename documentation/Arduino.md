@@ -6,6 +6,4 @@
 > Tools > Boards > Boards Manager
 > > RedBear Duo
 
-```
-
 
