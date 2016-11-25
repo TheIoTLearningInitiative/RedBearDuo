@@ -1,5 +1,4 @@
-Arduino
-==
+# Arduino
 
 - [Use Arduino IDE to develop STM32 MCU (e.g. RedBear Duo) Firmware](https://github.com/redbear/STM32-Arduino)
 
