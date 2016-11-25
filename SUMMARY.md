@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * Development Platforms
    * [Particle WebIDE](documentation/Particle.md)
